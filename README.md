@@ -1,4 +1,4 @@
-## 👋 Hey there, I'm Lujaina Walid!</h1>
+## 👋 Hey there, I'm <b>Lujaina Walid</b>!</h1>
 
 <p align="center">
   <img src="https://github.com/yourusername/yourusername/blob/main/banner.png" alt="Banner Image">
