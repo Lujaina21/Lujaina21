@@ -1,16 +1,31 @@
-## Hi there 👋
+## 👋 Hey there, I'm Lujaina Walid!</h1>
 
-<!--
-**Lujaina21/Lujaina21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://github.com/yourusername/yourusername/blob/main/banner.png" alt="Banner Image">
+</p>
 
-Here are some ideas to get you started:
+## 🚀 About Me
+🔹 Passionate **Front-End Developer**  
+🔹 Love working with **React.js and Tailwind CSS**  
+🔹 Enthusiastic about **Front-End Development and its orbit**  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔧 Tech Stack
+- **Languages:**  HTML, CSS, SCSS, JavaScript, TypeScript 
+- **Frameworks & Libraries:** React.js, Next.js, Redux, Tailwind CSS, Bootstrap  
+- **Tools & Platforms:** Git, GitHub, VS Code, Figma, Vercele  
+
+## 📈 GitHub Stats  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical" alt="GitHub Stats">
+  <br>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=radical" alt="GitHub Streak">
+</p>
+
+## 📫 Get in Touch
+💌 **Email:** lujynawalid21@gmail.com  
+💼 **LinkedIn:** https://www.linkedin.com/in/lujaina-walid-447b14242/
+---
+
+*"Building beautiful and functional web experiences!"* ✨
+
+<!-- Created with ❤️ by Lujaina21 -->
