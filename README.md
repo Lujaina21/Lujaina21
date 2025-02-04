@@ -1,5 +1,5 @@
-# 👋 Hello, I'm **Lujaina Walid**!  
-**Frontend Developer | React.js Enthusiast**  
+# Hello 👋, I'm **Lujaina Walid**!  
+**Front-end Developer | React.JS Enthusiast**  
 ---
 
 
