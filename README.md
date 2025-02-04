@@ -8,7 +8,7 @@
 </p>
 
 ## 🚀 About Me
-🔹 I am a passionate **Front-End Developer** specializing in **React.js**. I love building **interactive**, and **responsive** web applications. I focus on writing clean and efficient code while ensuring great user experiences.
+🔹 I am a passionate **Front-End Developer** specializing in **React.js** and currently learning **Next.js**. I love building **interactive**, and **responsive** web applications. I focus on writing clean and efficient code while ensuring great user experiences.
 
 
 ## 🛠 Tech Stack
