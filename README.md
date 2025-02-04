@@ -1,11 +1,14 @@
-## Hello I'm Lujaina Walid 👋</h1>
+# 👋 Hello, I'm **Lujaina Walid**!  
+**Frontend Developer | React.js Enthusiast**  
+---
+
 
 <p align="center">
   <img src="https://camo.githubusercontent.com/8d7db6cee873b2626e5e54af7762398ac6459aa2cc58c7a9aca327867a4658b9/68747470733a2f2f692e696d6775722e636f6d2f384d75705a48592e676966" alt="Banner Image">
 </p>
 
 ## 🚀 About Me
-🔹 I am a passionate **Front-End Developer** specializing in **React.js**. I love building beautiful, and accessible web applications. I focus on writing clean and efficient code while ensuring great user experiences.
+🔹 I am a passionate **Front-End Developer** specializing in **React.js**. I love building **interactive**, and **responsive** web applications. I focus on writing clean and efficient code while ensuring great user experiences.
 
 
 ## 🛠 Tech Stack
