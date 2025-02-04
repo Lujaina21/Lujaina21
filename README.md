@@ -12,7 +12,7 @@
 ## 🔧 Tech Stack
 - **Languages:**  HTML, CSS, SCSS, JavaScript, TypeScript 
 - **Frameworks & Libraries:** React.js, Next.js, Redux, Tailwind CSS, Bootstrap  
-- **Tools & Platforms:** Git, GitHub, VS Code, Figma, Vercel 
+- **Tools & Platforms:** Git, GitHub, VS Code, Figma, Vercel, Postman
 
 ## 📈 GitHub Stats  
 <p align="center">
