@@ -10,7 +10,7 @@
 
 ## 🔧 Tech Stack
 - **Languages:**  HTML, CSS, SCSS, JavaScript, TypeScript 
-- **Frameworks & Libraries:** React.js, Next.js, Redux, Tailwind CSS, Bootstrap  
+- **Frameworks & Libraries:** React.js, Next.js, Redux, Tailwind CSS, Bootstrap, AJAX
 - **Tools & Platforms:** Git, GitHub, VS Code, Figma, Vercel, Postman
 
 ## 📈 GitHub Stats  
