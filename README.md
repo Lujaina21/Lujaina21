@@ -5,9 +5,8 @@
 </p>
 
 ## 🚀 About Me
-🔹 Passionate **Front-End Developer**  
-🔹 Love working with **React.js and Tailwind CSS**  
-🔹 Enthusiastic about **Front-End Development and its orbit**  
+🔹 I am a passionate **Front-End Developer** specializing in **React.js**. I love building beautiful, and accessible web applications. I focus on writing clean and efficient code while ensuring great user experiences.
+
 
 ## 🔧 Tech Stack
 - **Languages:**  HTML, CSS, SCSS, JavaScript, TypeScript 
@@ -16,9 +15,9 @@
 
 ## 📈 GitHub Stats  
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical" alt="GitHub Stats">
+  <img src="https://github-readme-stats.vercel.app/api?username=Lujaina21&show_icons=true&theme=radical" alt="GitHub Stats">
   <br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=radical" alt="GitHub Streak">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Lujaina21&theme=radical" alt="GitHub Streak">
 </p>
 
 ## 📫 Get in Touch
