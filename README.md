@@ -1,7 +1,7 @@
 ## 👋 Hey there, I'm <b>Lujaina Walid</b>!</h1>
 
 <p align="center">
-  <img src="https://github.com/yourusername/yourusername/blob/main/banner.png" alt="Banner Image">
+  <img src="https://github.com/Lujaina21/Lujaina21/blob/main/banner.png" alt="Banner Image">
 </p>
 
 ## 🚀 About Me
