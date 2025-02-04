@@ -28,8 +28,9 @@
 </p>
 
 ## 📫 Get in Touch
-### 💬**Email:** lujynawalid21@gmail.com  
-### 💼**LinkedIn:** https://www.linkedin.com/in/lujaina-walid-447b14242/
+💬 **Email:** <small>lujynawalid21@gmail.com</small>  
+💼 **LinkedIn:** <small>[Lujaina Walid](https://www.linkedin.com/in/lujaina-walid-447b14242/)</small>  
+
 ---
 
 *"Building beautiful and functional web experiences!"* ✨
