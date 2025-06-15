@@ -33,7 +33,7 @@
 
 ## 📫 Get in Touch
 💬 **Email:** <small>lujynawalid21@gmail.com</small>  
-💼 **LinkedIn:** <small>[Lujaina Walid](https://www.linkedin.com/in/lujaina-walid-447b14242/)</small>  
+💼 **LinkedIn:** <small>[Lujaina Walid](https://www.linkedin.com/in/lujaina-walid/)</small>  
 **My Portofolio:** <small>[Lujaina's Portofolio](https://my-portofolio-dusky-eta.vercel.app/)</small>
 
 ---
